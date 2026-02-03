@@ -4,11 +4,10 @@ Imagine um restaurante. Existem três figuras: o **Cliente**, o **Garçom** (que
 
 Associe as ações abaixo com **Request (Pedido)** ou **Response (Resposta)**:
 
-1. Você escolhe a pizza e fala para o garçom: ___________
-2. O cozinheiro prepara a pizza e o garçom traz até a sua mesa: ___________
-3. Você pergunta se tem refrigerante gelado: ___________
-4. O garçom volta e diz que o refrigerante acabou: ___________
-
+1. Você escolhe a pizza e fala para o garçom: request
+2. O cozinheiro prepara a pizza e o garçom traz até a sua mesa: response
+3. Você pergunta se tem refrigerante gelado:request
+4. O garçom volta e diz que o refrigerante acabou: response
 ---
 
 ### Exercício 2: Onde está a informação? 🏠
@@ -20,9 +19,7 @@ Na arquitetura Cliente/Servidor, os dados ficam guardados no Servidor. Pense no 
 * (A) Porque as fotos ficam guardadas no seu celular (Cliente).
 * (B) Porque as fotos ficam guardadas nos computadores do Instagram (Servidor).
 
-
-
----
+letra a
 
 ### Exercício 3: Quem é quem no seu código? 💻
 
